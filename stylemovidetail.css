@@ -1,0 +1,48 @@
+.body{
+    /* background-color: #f0f0f0;  */
+    margin: 0; 
+    background-color:#f0f0f0;
+    padding: 0;
+    /* color:#FFFFFF; */
+}
+
+
+.navbar-nav input {
+    border-radius: 10px;
+    width: 500px;
+    height: 30px;
+}
+.list-menu li{
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.list-menu{
+    border: 1px solid#504F4F;
+    padding: 10px; 
+    border-radius: 20px; 
+    height: 100%;
+}
+.poster-movie img{
+    height: 450px;
+}
+.phimsapchieu{
+    font-size: 20px;
+}
+.image-movie img{
+    object-fit: cover;
+    height: 100px;
+}
+.movie-new{
+    border: 1px solid#504F4F;
+    border-radius: 10px;
+    padding: 2px;
+}
+.comments img{
+    object-fit: cover;
+    height: 40px;
+    border-radius: 50%;
+}
+.selection ul li:hover{
+    color: chocolate;
+}
